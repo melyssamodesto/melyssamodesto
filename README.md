@@ -1,8 +1,7 @@
 ### Olá, eu sou a Melyssa! 👋
 
-- 🎓 Futura desenvolvedora front-end
-- 📚 Estudando Html, CSS e Javascript
-- 🎓 Sistemas para Internet
+- 🎓 Futura desenvolvedora front-end / Sistemas para Internet
+- 📚 Estudando Html, CSS, Javascript, Python
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mell-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
